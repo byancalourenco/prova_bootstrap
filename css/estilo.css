@@ -1,0 +1,36 @@
+.carousel{
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 20%;
+    margin-top: 2%;
+}
+
+.tam_img{
+    width: 80%;
+}
+
+.espacamento{
+    margin-top: 2%;
+}
+
+.espaco_texto{
+    margin-top: 15%;
+}
+
+.espaco_barras{
+    padding: 5%;
+}
+
+footer{
+    padding: 2%;
+    margin-top: 2%;
+    background-color: rgb(203, 206, 206);
+}
+
+p{
+    text-align: center;
+}
+
+.centro{
+    text-align: center;
+}
