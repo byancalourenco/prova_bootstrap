@@ -1,6 +1,3 @@
-# Prova - Bootstrap 😶
-
-## Acesse o site! 👇
-
+# Prova - Bootstrap 
 https://byancalourenco.github.io/prova_bootstrap/
  
